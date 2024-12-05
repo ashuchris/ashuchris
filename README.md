@@ -4,7 +4,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/ashuchris/configure-ad)
-  - [Configuring Active Directory within Azure VMs](https://github.com/ashuchris/Network-share)
+  - [Configuring Network File Share and Security Permissions in Active Directory within Azure VMs](https://github.com/ashuchris/Network-share)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [OS Ticket: Prerequisites and Installation](https://github.com/ashuchris/osticket-prereqs)
