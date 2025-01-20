@@ -8,6 +8,8 @@
   - [Configuring Network Security Group in Azure](https://github.com/ashuchris/NSG)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [OS Ticket: Prerequisites and Installation](https://github.com/ashuchris/osticket-prereqs)
+- <b>LetsDefend Walkthroughs</b>
+  - [SOC138 - Detected Suspicious Xls File - EventID: 77](https://github.com/ashuchris/LetsDefendwalkthrough)
 
 
 <h2>🤳Connect with me:</h2>
