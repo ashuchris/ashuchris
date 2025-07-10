@@ -10,6 +10,8 @@
   - [OS Ticket: Prerequisites and Installation](https://github.com/ashuchris/osticket-prereqs)
 - <b>LetsDefend Walkthroughs</b>
   - [SOC138 - Detected Suspicious Xls File - EventID: 77](https://github.com/ashuchris/LetsDefendwalkthrough)
+-  <b>Phishing Email Analysis</b>
+   - [Detecting Phishing Emails by Hand: A Practical Analysis](https://github.com/ashuchris/Phishing-Analysis)
 
 
 <h2>🤳Connect with me:</h2>
