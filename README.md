@@ -1,4 +1,14 @@
 <h1>Hi, I'm Chris, an <a href="https://linkedin.com/in/ashuchris">IT Professional</a>☺</h1>
+<p>I am an IT Support professional with hands-on experience building home labs in Active Directory, Microsoft Sentinel, vulnerability management, and Windows administration.</p>
+
+<h2>Active Directory Helpdesk Lab</h2>
+
+- [Installing and working with Active Directory in Windows Server 2022](https://github.com/ashuchris/Active-Directory-Home-Lab)
+- [Enterprise IT helpdesk ticket simulation](https://github.com/ashuchris/active-directory-helpdesk-ticket-simulation)
+
+
+
+
 
 <h2>Information Technology Projects:</h2>
 
@@ -14,8 +24,4 @@
    - [Detecting Phishing Emails by Hand: A Practical Analysis](https://github.com/ashuchris/Phishing-Analysis)
 
 
-<h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/ashuchris
