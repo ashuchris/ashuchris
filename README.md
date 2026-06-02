@@ -1,10 +1,17 @@
-<h1>Hi, I'm Chris, an <a href="https://linkedin.com/in/ashuchris">IT Professional</a>☺</h1>
-<p>I am an IT Support professional with hands-on experience building home labs in Active Directory, Microsoft Sentinel, vulnerability management, and Windows administration.</p>
+# <a href="https://www.linkedin.com/in/joshmadakor/">Chris Eben</a>'s IT and Cybersecurity Project Portfolio 🔐
+
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 <h2>Active Directory Helpdesk Lab</h2>
 
-- [Installing and working with Active Directory in Windows Server 2022](https://github.com/ashuchris/Active-Directory-Home-Lab)
-- [Enterprise IT helpdesk ticket simulation](https://github.com/ashuchris/active-directory-helpdesk-ticket-simulation)
+- **[Installing and working with Active Directory in Windows Server 2022](https://github.com/ashuchris/Active-Directory-Home-Lab)**
+- **[Enterprise IT helpdesk ticket simulation](https://github.com/ashuchris/active-directory-helpdesk-ticket-simulation)**
 
   </br>
 <h2>osTicket (Help Desk Ticketing System) installation using Azure Virtual Machines </h2>
@@ -25,3 +32,19 @@
 
 
 
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/___________
+[youtube]: https://www.youtube.com/c/___________
+[instagram]: https://www.instagram.com/___________
+[linkedin]: https://linkedin.com/in/___________
+
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
