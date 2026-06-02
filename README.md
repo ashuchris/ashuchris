@@ -5,10 +5,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/ashuchris/Vulnerability-Management-Program-Implementation)**
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
-<h2>Active Directory Helpdesk Lab</h2>
+<h2>💻 Active Directory Helpdesk Lab</h2>
 
 - **[Installing and working with Active Directory in Windows Server 2022](https://github.com/ashuchris/Active-Directory-Home-Lab)**
 - **[Enterprise IT helpdesk ticket simulation](https://github.com/ashuchris/active-directory-helpdesk-ticket-simulation)**
